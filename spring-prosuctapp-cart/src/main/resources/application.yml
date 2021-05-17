@@ -1,0 +1,22 @@
+spring:
+      application:
+          name: CART-SERVICE
+
+
+
+
+
+server:
+  port: 7082
+  
+  
+  
+
+  
+eureka:
+  client:
+    service-url:
+      default-zone: http://localhost:8761
+      
+  
+      
